@@ -1,2 +1,0 @@
-# NovaCalc
-Premium Neumorphic Calculator
