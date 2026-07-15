@@ -72,13 +72,17 @@ NovaCalc was developed using modern web technologies to provide a responsive, li
 ```text
 NovaCalc
 │
+├── css
+│   └── style.css
+│
+├── js
+│   └── script.js
+│
 ├── images
 │   ├── light-theme.png
-│   ├── dark-theme.png
+│   └── dark-theme.png
 │
 ├── index.html
-├── style.css
-├── script.js
 └── README.md
 ```
 
